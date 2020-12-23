@@ -1,0 +1,7 @@
+This set of notebook/notes briefly describes some notions of Mote Carlo methods as I am learning it in the WQU MSc Fin Eng program.Ideas covered are as follows:
+
+1. Generation of random numbers
+2. Simulation of Stock prices
+3. Option pricing
+
+NB: These will be updated as we progress
